@@ -20,8 +20,6 @@ The objective of this project is to demonstrate the working process of a three-w
 ## Principle of Three-Way Traffic Controller
 The aim of the project is to design a traffic controller for a T-intersection. The intersection has six possible states that guide the traffic flow through the intersection, helping vehicles move safely and efficiently.
 
-![State Diagram](images/state_diagram.png)
-
 ## Hardware Requirements
 - FPGA Development Board
 - Traffic Light LEDs
